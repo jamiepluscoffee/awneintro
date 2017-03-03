@@ -7,6 +7,6 @@ We also saw that the nearest existing solution (couple therapy) is expensive, st
 
 We are working with a number of practicing couple therapists to build a consumer technology product that creates an accessible, affordable solution with the aim of expanding and capturing the market for relationship support.
  
-We've been self-funded through the testing and prototyping of the product and are now about to open our first round of funding. We are keen to talk to people with an interest in consumer products and the wellness space who can contribute to the strategic and product direction of the company.
+We are keen to talk to people with an interest in consumer products and the wellness space who can contribute to the strategic and product direction of the company.
 
 Thanks!
